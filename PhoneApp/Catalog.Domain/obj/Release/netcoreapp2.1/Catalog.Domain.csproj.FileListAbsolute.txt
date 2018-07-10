@@ -1,0 +1,36 @@
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Domain.deps.json
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Domain.dll
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Domain.pdb
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Infrastructure.dll
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Infrastructure.pdb
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.csprojAssemblyReference.cache
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.csproj.CoreCompileInputs.cache
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.AssemblyInfoInputs.cache
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.AssemblyInfo.cs
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.csproj.CopyComplete
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.dll
+/home/dxd/Desktop/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.pdb
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Domain.deps.json
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Domain.dll
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Domain.pdb
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Infrastructure.dll
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Infrastructure.pdb
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.csprojAssemblyReference.cache
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.csproj.CoreCompileInputs.cache
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.AssemblyInfoInputs.cache
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.AssemblyInfo.cs
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.csproj.CopyComplete
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.dll
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.pdb
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Domain.deps.json
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Domain.dll
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Domain.pdb
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Infrastructure.dll
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/bin/Release/netcoreapp2.1/Catalog.Infrastructure.pdb
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.csprojAssemblyReference.cache
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.csproj.CoreCompileInputs.cache
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.AssemblyInfoInputs.cache
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.AssemblyInfo.cs
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.csproj.CopyComplete
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.dll
+/media/windows/Nueva version/Daniel/PhoneApp/Catalog.Domain/obj/Release/netcoreapp2.1/Catalog.Domain.pdb

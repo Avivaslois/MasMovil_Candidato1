@@ -1,0 +1,57 @@
+/home/dxd/Desktop/PhoneApp_linux/Order.API/bin/Debug/netcoreapp2.1/Order.API.deps.json
+/home/dxd/Desktop/PhoneApp_linux/Order.API/bin/Debug/netcoreapp2.1/Order.API.runtimeconfig.json
+/home/dxd/Desktop/PhoneApp_linux/Order.API/bin/Debug/netcoreapp2.1/Order.API.runtimeconfig.dev.json
+/home/dxd/Desktop/PhoneApp_linux/Order.API/bin/Debug/netcoreapp2.1/Order.API.dll
+/home/dxd/Desktop/PhoneApp_linux/Order.API/bin/Debug/netcoreapp2.1/Order.API.pdb
+/home/dxd/Desktop/PhoneApp_linux/Order.API/bin/Debug/netcoreapp2.1/Order.Domain.dll
+/home/dxd/Desktop/PhoneApp_linux/Order.API/bin/Debug/netcoreapp2.1/Order.Infrastructure.dll
+/home/dxd/Desktop/PhoneApp_linux/Order.API/bin/Debug/netcoreapp2.1/Order.Domain.pdb
+/home/dxd/Desktop/PhoneApp_linux/Order.API/bin/Debug/netcoreapp2.1/Order.Infrastructure.pdb
+/home/dxd/Desktop/PhoneApp_linux/Order.API/obj/Debug/netcoreapp2.1/Order.API.csprojAssemblyReference.cache
+/home/dxd/Desktop/PhoneApp_linux/Order.API/obj/Debug/netcoreapp2.1/Order.API.csproj.CoreCompileInputs.cache
+/home/dxd/Desktop/PhoneApp_linux/Order.API/obj/Debug/netcoreapp2.1/Order.API.RazorAssemblyInfo.cache
+/home/dxd/Desktop/PhoneApp_linux/Order.API/obj/Debug/netcoreapp2.1/Order.API.RazorAssemblyInfo.cs
+/home/dxd/Desktop/PhoneApp_linux/Order.API/obj/Debug/netcoreapp2.1/Order.API.AssemblyInfoInputs.cache
+/home/dxd/Desktop/PhoneApp_linux/Order.API/obj/Debug/netcoreapp2.1/Order.API.AssemblyInfo.cs
+/home/dxd/Desktop/PhoneApp_linux/Order.API/obj/Debug/netcoreapp2.1/Order.API.RazorTargetAssemblyInfo.cache
+/home/dxd/Desktop/PhoneApp_linux/Order.API/obj/Debug/netcoreapp2.1/Order.API.csproj.CopyComplete
+/home/dxd/Desktop/PhoneApp_linux/Order.API/obj/Debug/netcoreapp2.1/Order.API.dll
+/home/dxd/Desktop/PhoneApp_linux/Order.API/obj/Debug/netcoreapp2.1/Order.API.pdb
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.API.deps.json
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.API.runtimeconfig.json
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.API.runtimeconfig.dev.json
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.API.dll
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.API.pdb
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.Domain.dll
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.Infrastructure.dll
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.Domain.pdb
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.Infrastructure.pdb
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.csprojAssemblyReference.cache
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.csproj.CoreCompileInputs.cache
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.RazorAssemblyInfo.cache
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.RazorAssemblyInfo.cs
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.AssemblyInfoInputs.cache
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.AssemblyInfo.cs
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.RazorTargetAssemblyInfo.cache
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.csproj.CopyComplete
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.dll
+//VBOXSVR/+Movil/Daniel/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.pdb
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.API.deps.json
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.API.runtimeconfig.json
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.API.runtimeconfig.dev.json
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.API.dll
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.API.pdb
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.Domain.dll
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.Infrastructure.dll
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.Domain.pdb
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/bin/Debug/netcoreapp2.1/Order.Infrastructure.pdb
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.csprojAssemblyReference.cache
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.csproj.CoreCompileInputs.cache
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.RazorAssemblyInfo.cache
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.RazorAssemblyInfo.cs
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.AssemblyInfoInputs.cache
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.AssemblyInfo.cs
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.RazorTargetAssemblyInfo.cache
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.csproj.CopyComplete
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.dll
+/media/windows/Nueva version/Daniel_/PhoneApp/Order.API/obj/Debug/netcoreapp2.1/Order.API.pdb
