@@ -1,5 +1,12 @@
-CHALLENGE
+# MasMovil CHALLENGE DotNet Core - Daniel Lavilla
 
+## SOLUTION
+
+My solution consits in two microservices deployed in single dockers (catalog and orders). 
+This microservices are developed in .NET CORE 2.1. The catalog microservice implements an SQLite database, which is created with Entity Framework Code First pattern, if the local file "PhoneApp.db" doesn't exists.
+Order microservice launches a request to recover the phone prices and log the final budget in console.
+
+### Prerequisites
 App Requirements:
 	- Maven +3.3
 	- Docker +17.12.0-ce
@@ -8,21 +15,19 @@ App Requirements:
 	- DotNet Core 2.1
 
 
-SOLUTION
-
-My solution consits in two microservices deployed in single dockers (catalog and orders). 
-This microservices are developed in .NET CORE 2.1. The catalog microservice implements an SQLite database, which is created with Entity Framework Code First pattern, if the local file "PhoneApp.db" doesn't exists.
-Order microservice launches a request to recover the phone prices and log the final budget in console.
-
-HOW TO RUN:
+### HOW TO RUN:
 
 In "PhoneApp" directory, launch command 
 
-    docker-compose up
+```
+docker-compose up
+```
 
-	*Example of use documented in "Example.docx"
+*Example of use documented in "Example.docx"
 
 This command will setup two containers in this IP's: 127.0.0.1:8080 (Catalog MicroService) and 127.0.0.1:8081 (Order MicroService)
+
+### Questions
 
 ¿How would you improve your system?
 
