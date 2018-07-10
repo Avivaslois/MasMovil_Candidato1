@@ -1,4 +1,4 @@
-# MasMovil CHALLENGE DotNet Core - Daniel Lavilla
+# MasMovil CHALLENGE DotNet Core - Candidato1
 
 ## SOLUTION
 
